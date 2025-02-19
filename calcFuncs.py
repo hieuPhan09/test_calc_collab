@@ -6,11 +6,14 @@
 
 #HP
 #[] Subtraction function
-#[] Multiplication function
-#[] Function to loop the program. 
+#[] Write function to loop the program. 
     #Once the program ends, ask user if they want to run the program again (Y/N)
     #If user enters Y, run the program again
     #If user enters N, end the program
+
+#Amine
+#[] Multiplication function
+#[] Write function to check if result is odd or even
 
 #menu
 def menu(operator_str):
